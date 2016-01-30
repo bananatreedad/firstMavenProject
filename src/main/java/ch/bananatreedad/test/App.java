@@ -2,7 +2,7 @@ package ch.bananatreedad.test;
 
 /**
  * Hello world!
- *
+ * test!
  */
 public class App 
 {
